@@ -1,0 +1,43 @@
+/* Element Color Styling */
+$primary-color: #1d365d;
+$accent-color: #eee;
+$accent-blue: #004896;
+$accent-ltblue: #8cc6ec;
+$cta-color: #d22b2f;
+$foreground-color: #1d365d;
+$background-color: #eee;
+$background-grey: #E3E3E3;
+
+/* Text Styling */
+$primary-lite-text: #ffffff;
+$primary-dark-text: #1d365f;
+$secondary-dark-text: #3C3C3C;
+$primary-cta-text: red;
+$accent-green-text: #408561;
+$ltgrey-text: #8B8B8B;
+
+/* Font Styling */
+$font-heavy: 900;
+$header-font: bold 32px futura-pt-bold, sans-serif;
+$title-font: bold 22px future-pt-bold, sans-serif;
+$body-font: normal 500 20px future-pt, sans-serif;
+$style-font: italic 600 20px future-pt, sans-serif;
+
+/* Shadow Styling */
+$shadow-linear-color: #f00;
+$blue-shadow: 15px -15px 15px 20px rgba(0, 0, 50, 0.1);
+$box-shadow: 5px -5px 15px 5px rgba(5, 20, 10, 0.1);
+$text-shadow: 1px 1px 10px rgba(50, 100, 100, 0.4);
+$text-shadow-lite: 1px 1px 10px rgba(50, 100, 100, 0.2);
+$shadow-color: #8cc6ec;
+$distance: 8px;
+$cut-distance: 2px;
+$strips-size: 6px;
+$strips-ratio: 50%;
+$strips-angle: 135deg;
+$animate: false;
+$fixed: false;
+
+/* Header / Modal Styling */
+$header-nav-height: 200px;
+$modal-height: calc(100vh - #{$header-nav-height});
